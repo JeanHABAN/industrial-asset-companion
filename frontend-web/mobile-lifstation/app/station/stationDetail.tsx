@@ -79,7 +79,7 @@ export default function StationDetail() {
 
   // ---- External links ----
   const openGuarddog = useCallback(() => {
-    return safeOpenUrl("https://guarddog.omnisite.com/login");
+    return safeOpenUrl("https://github.com/JeanHABAN");
   }, [safeOpenUrl]);
 
   const openGoogle = useCallback(() => {

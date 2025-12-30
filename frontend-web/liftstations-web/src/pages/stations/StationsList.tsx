@@ -208,10 +208,10 @@ export default function StationsList() {
             PM DOCX
           </button>
           <button
-            onClick={() => window.open("https://guarddog.omnisite.com/login", "_blank")}
+            onClick={() => window.open("https://github.com/JeanHABAN", "_blank")}
             className="btn-primary"
           >
-            Guarddog
+            Github
           </button>
         <div className="text-slate-400 text-sm ml-auto">
           {data?.totalElements ?? 0} total

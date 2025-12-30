@@ -161,10 +161,10 @@ export default function StationDetail() {
             PM DOCX
           </button>
           <button
-            onClick={() => window.open("https://guarddog.omnisite.com/login", "_blank")}
+            onClick={() => window.open("https://github.com/JeanHABAN", "_blank")}
             className="btn-primary"
           >
-            Guarddog
+            Github 
           </button>
           <button onClick={handleEdit} className="btn-primary" title="Edit station">
             Edit
